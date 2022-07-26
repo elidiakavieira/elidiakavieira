@@ -8,7 +8,7 @@
 
 
 #### - ⚡ Sou Proativa & Hiperativa. 😄 
-#### -  🖊️ Quando não estou estudando 🖋️ .
+#### -  🖊️ Quando não estou estudando. 🖋️
 
 :book:Gosto de Ler livros, :musical_note: ouvir musicas , :swimmer: nadar, :movie_camera: assistir filmes e series
 
