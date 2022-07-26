@@ -1,6 +1,6 @@
 # Hello World !? <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 
-## :four_leaf_clover: Eu Sou Elidia 
+## :four_leaf_clover: Eu Sou Elidia (PCD) :sunglasses: Baixa visão 10%
 
 ### 🤔 Busco uma Oportunidade na área de Desenvolvimento WEB
 
