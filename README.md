@@ -10,7 +10,7 @@
 #### - ⚡ Sou Proativa & Hiperativa. 😄 
 #### -  🖊️ Quando não estou estudando. 🖋️
 
-:book:Gosto de Ler livros, :musical_note: ouvir musicas , :swimmer: nadar, :movie_camera: assistir filmes e series
+Gosto de  --> :book: Ler livros, :musical_note: ouvir musicas , :swimmer: nadar, :crown: jogar XAFREZ , :movie_camera: assistir filmes e series
 
 - 🔭 Sou uma pessoa atenta a detalhes, amo observar o céu e suas estrelas. :star::star::star::star:
 - 🌱 Amo a Natureza, quando criança queria ser uma Árvore. :deciduous_tree:
