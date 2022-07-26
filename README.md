@@ -1,8 +1,8 @@
-# Hello World !? <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+#  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"  width="40" height="40"/> ?! Hello World !? <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 
-## :four_leaf_clover: Eu Sou Elidia (PCD) :sunglasses: Baixa visão 10%
+## :four_leaf_clover: Eu Sou Elidia (PCD) :sunglasses: Baixa visão - 10%
 
-### 🤔 Busco uma Oportunidade na área de Desenvolvimento WEB
+## 🤔 Busco uma Oportunidade na área de Desenvolvimento WEB
 
 ### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>| JAVA | PHP | MYSQL | HTML | CSS | CORELDRAW | PAINT |<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 
