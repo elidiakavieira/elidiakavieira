@@ -12,8 +12,8 @@
 
 :book:Gosto de Ler livros, :musical_note: ouvir musicas , :swimmer: nadar, :movie_camera: assistir filmes e series
 
-- 🔭 Sou uma pessoa atenta a detalhes, amo observar o céu e suas estrelas :star::star::star::star:
-- 🌱 Amo a Natureza quando criança queria ser uma Árvore :deciduous_tree:
+- 🔭 Sou uma pessoa atenta a detalhes, amo observar o céu e suas estrelas. :star::star::star::star:
+- 🌱 Amo a Natureza, quando criança queria ser uma Árvore. :deciduous_tree:
 
 ###  Para saber MAIS. Acesse meu site --> <a href="https://mynewwebsite.vercel.app/" target="Blank"> Meu site </a>
 
