@@ -1,6 +1,6 @@
 #  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"  width="40" height="40"/> ?! Hello World !? <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 
-## :four_leaf_clover: Eu Sou Elidia Karen. (PCD) :sunglasses: Baixa visão - 10%
+## :four_leaf_clover: Eu Sou Elidia Karen. ( PCD |CID-H542) :sunglasses: Baixa visão - 10%
 
 ## 🤔 Busco uma Oportunidade na área de Desenvolvimento WEB.
 
