@@ -14,7 +14,7 @@ Gosto de  --> :book: Ler livros, :musical_note: ouvir musicas , :swimmer: nadar,
 
 - 🔭 Sou uma pessoa atenta a detalhes, amo observar o céu e suas estrelas. :star::star::star::star:
 - 🌱 Amo a Natureza, quando criança queria ser uma Árvore. :deciduous_tree:
-- :page_facing_up: Para relaxar faço origamis :happy:
+- :page_facing_up: Para relaxar, faço origamis.
 
 
 
