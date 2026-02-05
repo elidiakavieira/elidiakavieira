@@ -2,9 +2,9 @@
 
 ## :four_leaf_clover: Eu Sou Elidia Karen. ( PCD |CID-H542) :sunglasses: Baixa visão - 10%
 
-## 🤔 Busco uma Oportunidade na área de Desenvolvimento WEB.
+## 🤔 Busco uma Oportunidade na área Informática.
 
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>| JAVA | PHP | MYSQL | HTML | CSS | CORELDRAW | PAINT |<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>| Analista de Suporte | Técnico de Informática | Atendimento ao Cliente |<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 
 
 #### - ⚡ Sou Proativa & Hiperativa. 😄 
